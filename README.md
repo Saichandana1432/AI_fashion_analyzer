@@ -11,7 +11,7 @@ An interdisciplinary Computer Vision project bridging AI Engineering with Fashio
 * **Machine Learning:** Scikit-Learn (K-Means Clustering)
 * **Image Processing:** Pillow (PIL), NumPy
 
-## Sample Output (Tested on Hand-Drawn Gown Sketch)
+## Sample Output (Tested on my own Hand-Drawn Gown Sketch)
 * **Detected Garment:** DRESS
 * **AI Confidence Score:** 73.58%
 * **Extracted Hex Color:** #AF7F7A
