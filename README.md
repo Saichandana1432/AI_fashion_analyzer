@@ -15,4 +15,4 @@ An interdisciplinary Computer Vision project bridging AI Engineering with Fashio
 * **Detected Garment:** DRESS
 * **AI Confidence Score:** 73.58%
 * **Extracted Hex Color:** #AF7F7A
-*
+
